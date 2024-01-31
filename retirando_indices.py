@@ -9,6 +9,3 @@ for i in range(len(l)):
         if (l[i] == l[j]) and (i != j): l.pop(j)
             
 print(l)
-            
-    
-        
